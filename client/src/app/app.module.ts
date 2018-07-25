@@ -11,7 +11,7 @@ import { HeaderComponent } from './views/layout/header/header.component';
 import { NavbarComponent } from './elements/navbar/navbar.component';
 import { CarouselComponent } from './elements/carousel/carousel.component';
 import { IndexinfoComponent } from './elements/indexinfo/indexinfo.component';
-import { LinetextComponent } from './app/elements/linetext/linetext.component';
+import { LinetextComponent } from './elements/linetext/linetext.component';
 
 @NgModule({
   declarations: [

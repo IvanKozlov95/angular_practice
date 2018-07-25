@@ -1,8 +1,19 @@
 .carousel-wrapper {
-	max-height: 300px;
+	max-height: 500px;
 	overflow: hidden;
+	position: relative;
 }
 
 .carousel-wrapper img {
 	width:100%;
+}
+
+.inner {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	top: 20%;
+	width: 80%;
 }
